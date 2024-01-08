@@ -7,6 +7,6 @@ My name is Vishal Waghmode and I am a Data Analytics and Engineering Consultant.
 * [[What is ETL]]
 
 **Socials**
-- [[LinkedIn]]
-- [[Twitter]]
-- [[Github]]
+- [LinkedIn](https://linkedin.com/in/vishalwaghmode)
+- [Twitter](https://twitter.com/vishal_555_)
+- [Github](https://github.com/vishal-555)
